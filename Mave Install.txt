@@ -1,0 +1,17 @@
+Session id : 499489b4-08a9-49df-910c-bc5f2f761d80
+
+mvn install:install-file -Dfile=C:\Users\dgopin003c\.m2\repository\einstein\Framework_Reporting\1.0\Framework_Reporting-1.0.jar -DgroupId=einstein -DartifactId=Framework_Utilities -Dversion=1.0 -Dpackaging=jar
+
+mvn install:install-file -Dfile=C:\Users\dgopin003c\Desktop\otaclient-9.2.jar -DgroupId=com.mercury.qualitycenter -DartifactId=otaclient -Dversion=9.2 -Dpackaging=jar
+
+
+
+mvn install:install-file -Dfile=C:\Users\dgopin003c\.m2\repository\com\oracle\ojdbc7\12.1.0.1\ojdbc7-12.1.0.1.jar -DgroupId=com.oracle -DartifactId=ojdbc7 -Dversion=12.1.0.1 -Dpackaging=jar
+
+
+
+		<dependency>
+		  <groupId>com.oracle</groupId>
+		  <artifactId>ojdbc7</artifactId>
+		  <version>12.1.0.1</version>
+		</dependency>

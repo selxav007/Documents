@@ -1,0 +1,39 @@
+1- Master Page Factory
+2-Page Factory
+3- Inter Face
+4- Page
+
+5- Create a test case in ALM with same method name
+6-Package name: com.comcast.retail.foldername
+
+
+Single Run
+New Item
+Item Name
+Copy from-->
+
+
+Test Set Name- Should be same as of class name
+
+Test Set Path
+
+Change the report Path
+
+Change the POM
+
+Change the CLass Path
+
+Change the Email
+
+Build with Parameter- change the test set id
+
+
+
+A private member is only accessible within the same class as it is declared. 
+A member with no access modifier is only accessible within classes in the same package. 
+A protected member is accessible within all classes in the same package and within subclasses in other packages
+
+
+Abstract classes are classes that contain one or more abstract methods. An abstract method is a method that 
+is declared, but contains no implementation. Abstract classes may not be instantiated, 
+and require subclasses to provide implementations for the abstract methods.
